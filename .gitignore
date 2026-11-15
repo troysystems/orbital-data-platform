@@ -1,0 +1,12 @@
+# secrets
+.env
+# data and logs never go to GitHub (Space-Track restricts redistribution)
+data/
+logs/
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+# macOS
+.DS_Store
