@@ -21,4 +21,4 @@ Here's what each folder is for:
 - `logs/`: Records of each pipeline run
 
 *Where things stand now*
-Phase 1: setup complete; pipeline work starts in Phase 2. Must be able to run Phase 1 from memory before proceeding.
+Phase 1: setup complete; pipeline work starts in Phase 2. Must be able to run Phase 1 from memory before proceeding. Setting up my logs will come in Phase 2.
